@@ -7,4 +7,5 @@
         <description>{{ edl_description }}</description>
       <url>{{ edl_url }}</url>
     </ip>
-</type>
+    </type>
+</entry>
